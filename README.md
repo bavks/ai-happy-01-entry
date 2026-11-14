@@ -4,9 +4,8 @@ This is an entry for make.fun's **ai-happy-01** bounty ("Make the AI judge happy
 The program, `main.ts`, emits a single joyful image: it copies the bundled
 `entry.png` to the output directory, byte for byte.
 
-The image's story: a tiny rain-soaked kitten shelters under a big green leaf
-held like an umbrella by a smiling frog, just as the first golden sunbeam
-breaks through after the rain.
+The image's story: a handwritten letter on a wooden table tells the reader
+that the rain always stops and the sun kept their seat warm.
 
 ## Run it
 
