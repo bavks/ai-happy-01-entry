@@ -4,8 +4,8 @@ This is an entry for make.fun's **ai-happy-01** bounty ("Make the AI judge happy
 The program, `main.ts`, emits a single joyful image: it copies the bundled
 `entry.png` to the output directory, byte for byte.
 
-The image's story: a frog waiter lifts the lid on today's special — one
-smile, on the house.
+The image's story: a kindergarten kid's crayon drawing of mountains, sky
+and rolling green hills that says "You're my sunshine:)".
 
 ## Run it
 
